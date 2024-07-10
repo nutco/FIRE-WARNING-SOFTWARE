@@ -1,0 +1,79 @@
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.AssemblyReference.cache
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.Form1.resources
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.GenerateResource.cache
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfoInputs.cache
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfo.cs
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CoreCompileInputs.cache
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.exe
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.deps.json
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.runtimeconfig.json
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.dll
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\bin\Debug\net7.0-windows\websocket-sharp.dll
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CopyComplete
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.dll
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\refint\AnNinhGiaDinh.dll
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.genruntimeconfig.cache
+E:\Tong Hop\C#\AnNinhGiaDinh\AnNinhGiaDinh\obj\Debug\net7.0-windows\ref\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.exe
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.deps.json
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.runtimeconfig.json
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\websocket-sharp.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.AssemblyReference.cache
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.Form1.resources
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.GenerateResource.cache
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfoInputs.cache
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfo.cs
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CoreCompileInputs.cache
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CopyComplete
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\refint\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.genruntimeconfig.cache
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\ref\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.exe
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.deps.json
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.runtimeconfig.json
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\websocket-sharp.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.AssemblyReference.cache
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.Form1.resources
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.GenerateResource.cache
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfoInputs.cache
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfo.cs
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CoreCompileInputs.cache
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CopyComplete
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\refint\AnNinhGiaDinh.dll
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.genruntimeconfig.cache
+D:\visualstudio\winform\download_share\IOT_anninhgiadinh1\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\ref\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.exe
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.deps.json
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.runtimeconfig.json
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\bin\Debug\net7.0-windows\websocket-sharp.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.AssemblyReference.cache
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.Form1.resources
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.GenerateResource.cache
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfoInputs.cache
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.AssemblyInfo.cs
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CoreCompileInputs.cache
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.csproj.CopyComplete
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\refint\AnNinhGiaDinh.dll
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.pdb
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\AnNinhGiaDinh.genruntimeconfig.cache
+C:\Users\quanp\Desktop\IOT10_11\An-Ninh-Gia-Dinh-master\AnNinhGiaDinh\obj\Debug\net7.0-windows\ref\AnNinhGiaDinh.dll
